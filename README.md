@@ -16,7 +16,7 @@ Estudante de Gestão de Tecnologia da Informação e dev Back-End
 ##
 
 <div> 
-  <a href="https://www.instagram.com/eu_igorvinicius/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
   <a href="http://linkedin.com/in/devigor-vinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
